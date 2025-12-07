@@ -8,5 +8,5 @@ It includes:
 - Requirements file
 - CI workflow (GitHub Actions)
 
-testing 12
+testing the repo
 
