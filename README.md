@@ -8,6 +8,6 @@ It includes:
 - Requirements file
 - CI workflow (GitHub Actions)
 
-Test 1
+Testing
 
 
