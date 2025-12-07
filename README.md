@@ -8,4 +8,4 @@ It includes:
 - Requirements file
 - CI workflow (GitHub Actions)
 
-You can freely modify this repository to test your generator.
+
